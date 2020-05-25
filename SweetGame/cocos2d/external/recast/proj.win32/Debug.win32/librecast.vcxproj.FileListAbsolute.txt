@@ -1,0 +1,2 @@
+C:\Users\Наталья\Desktop\Da game\SweetGame\proj.win32\Debug.win32\librecast.pdb
+C:\Users\Наталья\Desktop\Da game\SweetGame\cocos2d\external\recast\proj.win32\Debug.win32\librecast.pdb
